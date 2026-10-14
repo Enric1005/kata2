@@ -12,6 +12,15 @@ target/
 *.iws
 *.iml
 *.ipr
+target
+out
+build
+.class
+.jar
+.war
+.zip
+.exe
+.tsv
 
 ### Eclipse ###
 .apt_generated
